@@ -1,0 +1,17 @@
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\bin\Debug\net6.0-windows\holaMundo.exe
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\bin\Debug\net6.0-windows\holaMundo.deps.json
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\bin\Debug\net6.0-windows\holaMundo.runtimeconfig.json
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\bin\Debug\net6.0-windows\holaMundo.dll
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\bin\Debug\net6.0-windows\holaMundo.pdb
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\obj\Debug\net6.0-windows\holaMundo.csproj.AssemblyReference.cache
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\obj\Debug\net6.0-windows\holaMundo.Form1.resources
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\obj\Debug\net6.0-windows\holaMundo.csproj.GenerateResource.cache
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\obj\Debug\net6.0-windows\holaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\obj\Debug\net6.0-windows\holaMundo.AssemblyInfoInputs.cache
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\obj\Debug\net6.0-windows\holaMundo.AssemblyInfo.cs
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\obj\Debug\net6.0-windows\holaMundo.csproj.CoreCompileInputs.cache
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\obj\Debug\net6.0-windows\holaMundo.dll
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\obj\Debug\net6.0-windows\refint\holaMundo.dll
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\obj\Debug\net6.0-windows\holaMundo.pdb
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\obj\Debug\net6.0-windows\holaMundo.genruntimeconfig.cache
+C:\Users\tefam\OneDrive\Documentos\jala\c#\holaMundo\holaMundo\obj\Debug\net6.0-windows\ref\holaMundo.dll

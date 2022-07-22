@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{FF0CDD1C-227B-4A69-BD17-9DE6ECFE2E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructura", "Infraestructura\Infraestructura.csproj", "{C37D8811-E0BF-4DEA-A92D-4D0CDE07C1F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola", "Consola\Consola.csproj", "{6965D5C4-353F-430B-B184-C3F304F7A13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF0CDD1C-227B-4A69-BD17-9DE6ECFE2E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0CDD1C-227B-4A69-BD17-9DE6ECFE2E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0CDD1C-227B-4A69-BD17-9DE6ECFE2E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0CDD1C-227B-4A69-BD17-9DE6ECFE2E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37D8811-E0BF-4DEA-A92D-4D0CDE07C1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37D8811-E0BF-4DEA-A92D-4D0CDE07C1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37D8811-E0BF-4DEA-A92D-4D0CDE07C1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37D8811-E0BF-4DEA-A92D-4D0CDE07C1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6965D5C4-353F-430B-B184-C3F304F7A13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6965D5C4-353F-430B-B184-C3F304F7A13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6965D5C4-353F-430B-B184-C3F304F7A13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6965D5C4-353F-430B-B184-C3F304F7A13D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {427F54B7-52A5-489F-908C-0B8031B019A9}
+	EndGlobalSection
+EndGlobal
