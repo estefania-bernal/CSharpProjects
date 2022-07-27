@@ -1,0 +1,17 @@
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\bin\Debug\net6.0-windows\majorOrMinor.exe
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\bin\Debug\net6.0-windows\majorOrMinor.deps.json
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\bin\Debug\net6.0-windows\majorOrMinor.runtimeconfig.json
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\bin\Debug\net6.0-windows\majorOrMinor.dll
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\bin\Debug\net6.0-windows\majorOrMinor.pdb
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\obj\Debug\net6.0-windows\majorOrMinor.csproj.AssemblyReference.cache
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\obj\Debug\net6.0-windows\majorOrMinor.Form1.resources
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\obj\Debug\net6.0-windows\majorOrMinor.csproj.GenerateResource.cache
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\obj\Debug\net6.0-windows\majorOrMinor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\obj\Debug\net6.0-windows\majorOrMinor.AssemblyInfoInputs.cache
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\obj\Debug\net6.0-windows\majorOrMinor.AssemblyInfo.cs
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\obj\Debug\net6.0-windows\majorOrMinor.csproj.CoreCompileInputs.cache
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\obj\Debug\net6.0-windows\majorOrMinor.dll
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\obj\Debug\net6.0-windows\refint\majorOrMinor.dll
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\obj\Debug\net6.0-windows\majorOrMinor.pdb
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\obj\Debug\net6.0-windows\majorOrMinor.genruntimeconfig.cache
+C:\Users\tefam\OneDrive\Documentos\jala\c#\majorOrMinor\majorOrMinor\majorOrMinor\obj\Debug\net6.0-windows\ref\majorOrMinor.dll
